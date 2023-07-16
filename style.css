@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
 
 * {
+   
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -123,13 +124,13 @@ main {
 }
 /* features */
 .features{
-    margin-top: 130px;
+    margin-top: 130px ;
     display: flex;
     gap:100px;
 }
 .features .section-title{
    border-left: 5px solid  #FF900E;
-   padding-left:20px:
+   padding-left:20px;
 
 }
  .cards{
@@ -140,10 +141,12 @@ background: #FFF;
 box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
 
 }
-.features-image img{
+.features-image img {
 
-   height:90%;
-   margin-left: 50px;
+   height:80%;
+   margin-left:90px ;
+  
+   
 }
 .ten-years-badge{
     border-radius: 8px;
